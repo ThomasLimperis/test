@@ -3,4 +3,4 @@ def test1():
     assert(a == 4)
 def test2():
     a = 3 +5
-    assert (a == 7)
+    assert (a == 8)
